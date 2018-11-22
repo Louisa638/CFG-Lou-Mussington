@@ -38,3 +38,11 @@ h3
 font-family:sans-serif;
 color:rgba(200,162,200);
 }
+.footer
+{
+position: fixed;
+bottom: 0;
+left: 0;
+width: 50%;
+text-align: center;
+}
